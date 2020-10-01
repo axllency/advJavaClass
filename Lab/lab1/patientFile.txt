@@ -1,0 +1,4 @@
+1,patient1,doctor,illness1,symptom1
+2,patient2,doctor,illness2,symptom2
+3,patient3,doctor,illness3,symptom3
+4,patient4,doctor,illness4,symptom4

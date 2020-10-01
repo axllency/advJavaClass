@@ -1,0 +1,5 @@
+"id" = 1,
+"name" = "patient1",
+"doctor" = "Dr. Pete",
+"illness" = "Kombucha poisoning",
+"symptom" = "Stomachache"
