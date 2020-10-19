@@ -20,11 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f2e4e84-9e98-4fbb-8574-9acf78ae9494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hw3/routing-profile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.settings/.jsdtscope" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/login/login.component.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/login/login.component.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/login/login.component.spec.ts" afterDir="false" />
@@ -39,9 +34,7 @@
       <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/register/register.component.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/services/user.service.client.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hw3/routing-demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hw3/routing-profile" beforeDir="false" afterPath="$PROJECT_DIR$/Hw3/routing-profile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab4/rrouting-demo" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/rrouting-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app.component.html" afterDir="false" />
@@ -100,7 +93,7 @@
       <workItem from="1601597227687" duration="2803000" />
       <workItem from="1602203714488" duration="3775000" />
       <workItem from="1603080563965" duration="5941000" />
-      <workItem from="1603087885573" duration="1480000" />
+      <workItem from="1603087885573" duration="1609000" />
     </task>
     <servers />
   </component>
