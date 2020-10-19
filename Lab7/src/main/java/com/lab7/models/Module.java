@@ -21,12 +21,12 @@ public class Module {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
 	
-	String title;
+	private String title;
 	
 	@ManyToOne
 	@JsonIgnore
 	private Course course;
 	
-	@OneToMany(mappedBy = "lesson")
+	@OneToMany(mappedBy = "module")
 	private List<Lesson> lessons;
 }

@@ -19,6 +19,6 @@ public class Course {
 	Integer id;
 	String title; 
 	String authorName;
-	@OneToMany(mappedBy = "module")
+	@OneToMany(mappedBy = "course")
 	private List<Module> modules;
 }
