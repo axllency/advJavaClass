@@ -20,163 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f2e4e84-9e98-4fbb-8574-9acf78ae9494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hw1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/src/main/java/com/hw1/Hw1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/src/main/java/com/hw1/models/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/src/main/java/com/hw1/repositories/PatientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/src/main/java/com/hw1/services/PatientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/src/main/java/com/hw1/web/PatientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw1/src/test/java/com/hw1/patients/Hw1ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw3/routing-demo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/course-navigator/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/course-navigator/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/bin/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/bin/patientFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/patient.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/patientFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/src/GeneratePatientFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/src/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/src/PatientGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/src/TestPatient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/src/patientFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/demo/Lab2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/demo/models/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/demo/repositories/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/demo/services/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/demo/web/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/test/java/com/example/demo/Lab2ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/Lab4Login.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/Lab4Profile.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/Lab4Register.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hw3/routing-profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/login/login.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/login/login.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/profile/profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/register/register.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/register/register.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/register/register.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/register/register.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/services/user.service.client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/rrouting-demo/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/src/main/java/com/hw1/Hw1Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/src/main/java/com/hw1/models/Patient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/src/main/java/com/hw1/repositories/PatientRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/src/main/java/com/hw1/services/PatientService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/src/main/java/com/hw1/web/PatientController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/src/main/resources/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/src/main/resources/schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Hw1/src/test/java/com/hw1/patients/Hw1ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/bin/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/bin/patientFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/patient.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/patientFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/src/GeneratePatientFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/src/Patient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/src/PatientGUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/src/TestPatient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab1/src/patientFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/src/main/java/com/example/demo/Lab2Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/src/main/java/com/example/demo/models/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/src/main/java/com/example/demo/repositories/StudentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/src/main/java/com/example/demo/services/StudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/src/main/java/com/example/demo/web/StudentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/src/test/java/com/example/demo/Lab2ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/.idea/lab4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/Lab4Login.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/Lab4Profile.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/Lab4Register.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/e2e/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/course-navigator/course-navigator.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/course-navigator/course-navigator.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/course-navigator/course-navigator.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/course-navigator/course-navigator.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/login/login.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/login/login.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/login/login.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/login/login.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/profile/profile.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/profile/profile.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/profile/profile.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/profile/profile.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/register/register.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/register/register.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/register/register.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/register/register.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/services/CourseService.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/app/services/user.service.client.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab4/rrouting-demo/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/course-navigator/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/course-navigator/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/course-navigator/src/app/course-navigator/course-navigator.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/course-navigator/src/app/course-navigator/course-navigator.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/course-navigator/src/app/course-navigator/course-navigator.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/course-navigator/src/app/course-navigator/course-navigator.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/src/main/java/com/lab7/models/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/src/main/java/com/lab7/models/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/src/main/java/com/lab7/models/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/src/main/java/com/lab7/models/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hw3/routing-demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/rrouting-demo" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/rrouting-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/rrouting-demo/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/rrouting-demo/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,21 +89,6 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="D:\Workspace\advJavaClass\Lab7\course-navigator\node_modules\typescript\lib" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -244,7 +99,8 @@
       <updated>1601597225876</updated>
       <workItem from="1601597227687" duration="2803000" />
       <workItem from="1602203714488" duration="3775000" />
-      <workItem from="1603080563965" duration="4883000" />
+      <workItem from="1603080563965" duration="5941000" />
+      <workItem from="1603087885573" duration="1480000" />
     </task>
     <servers />
   </component>
