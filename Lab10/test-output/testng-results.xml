@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-22T21:27:12 EST" name="Default suite" finished-at="2020-11-22T21:27:14 EST" duration-ms="2238">
+  <suite started-at="2020-11-22T21:29:13 EST" name="Default suite" finished-at="2020-11-22T21:29:17 EST" duration-ms="3820">
     <groups>
     </groups>
-    <test started-at="2020-11-22T21:27:12 EST" name="Default test" finished-at="2020-11-22T21:27:14 EST" duration-ms="2238">
+    <test started-at="2020-11-22T21:29:13 EST" name="Default test" finished-at="2020-11-22T21:29:17 EST" duration-ms="3820">
       <class name="com.lab10.Lab10.TestRestApi">
-        <test-method signature="addCustomer()[pri:0, instance:com.lab10.Lab10.TestRestApi@4a668b6e]" started-at="2020-11-22T21:27:12 EST" name="addCustomer" finished-at="2020-11-22T21:27:14 EST" duration-ms="2213" status="PASS">
+        <test-method signature="addCustomer()[pri:0, instance:com.lab10.Lab10.TestRestApi@1329eff]" started-at="2020-11-22T21:29:13 EST" name="addCustomer" finished-at="2020-11-22T21:29:15 EST" duration-ms="2257" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addCustomer -->
+        <test-method signature="getUser()[pri:0, instance:com.lab10.Lab10.TestRestApi@1329eff]" started-at="2020-11-22T21:29:15 EST" name="getUser" finished-at="2020-11-22T21:29:17 EST" duration-ms="1527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
       </class> <!-- com.lab10.Lab10.TestRestApi -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
