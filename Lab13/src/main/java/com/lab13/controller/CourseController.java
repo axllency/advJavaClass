@@ -15,7 +15,7 @@ import com.lab13.services.CourseService;
 @RestController
 @CrossOrigin("*")
 @RequestMapping("api")
-@PreAuthorize("hasRole('ROLE_ADMIN')")
+@PreAuthorize("hasAnyRole('ROLE_ADMIN', 'ROLE_USER')")
 public class CourseController {
 	@Autowired
 	CourseService courseService;
